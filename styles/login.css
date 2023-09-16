@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+.login{
+    font-family: 'Lora', serif;
+    background-color: rgba(0, 0, 0, 0.35);
+    color: #FFF;
+    width: 50%;
+    padding: 15px;
+    border-radius: 25px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
